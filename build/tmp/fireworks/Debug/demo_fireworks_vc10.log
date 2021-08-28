@@ -1,0 +1,8 @@
+﻿cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  timing.cpp
+  app.cpp
+  fireworks.cpp
+  코드를 생성하고 있습니다...
+cl : 명령줄 warning D9035: 'Gm' 옵션은 더 이상 사용되지 않으므로 이후 릴리스에서 제거될 예정입니다.
+  main.cpp
+  demo_fireworks_vc10.vcxproj -> C:\Users\sky59\Documents\GitHub\cyclone-physics\build\bin\fireworks_d.exe
